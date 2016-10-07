@@ -1,0 +1,9 @@
+c:\users\wisnia\documents\visual studio 2013\Projects\test_1\test_1\bin\Debug\test_1.exe.config
+c:\users\wisnia\documents\visual studio 2013\Projects\test_1\test_1\bin\Debug\test_1.exe
+c:\users\wisnia\documents\visual studio 2013\Projects\test_1\test_1\bin\Debug\test_1.pdb
+c:\users\wisnia\documents\visual studio 2013\Projects\test_1\test_1\obj\Debug\test_1.csprojResolveAssemblyReference.cache
+c:\users\wisnia\documents\visual studio 2013\Projects\test_1\test_1\obj\Debug\test_1.Properties.Resources.resources
+c:\users\wisnia\documents\visual studio 2013\Projects\test_1\test_1\obj\Debug\test_1.csproj.GenerateResource.Cache
+c:\users\wisnia\documents\visual studio 2013\Projects\test_1\test_1\obj\Debug\test_1.exe
+c:\users\wisnia\documents\visual studio 2013\Projects\test_1\test_1\obj\Debug\test_1.pdb
+C:\Users\Wisnia\documents\visual studio 2013\Projects\test_1\test_1\obj\Debug\test_1.Form1.resources
